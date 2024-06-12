@@ -7,15 +7,15 @@
 ### Contributions you are looking for.
 Everyone should put in equal work in researching articles and coding.
 > Responsibilities
-> * Read articles and code for indigenous or neoliberal language
-> * Reach out to Kemi or group members if you ever get confused or need help
-> * I'll think of something
-> * 
-> * 
+> * Find relevant stories and identify the claims being made
+> * Determine the extent to which supporters and opponents of the TMT are drawing from different epistemologies
+> * Make sure to add every article you read into the shared google sheets
+> * Communicate with group members regularly
+> * Code stories for epistemology: Indigenous or neoliberal perspective?
 > *  
 
 # Ground Rules
 ### Expectations
-Just being respectful and kid to others. If you ever feel confused, stressed, etc., your group members are mentors are there to support you!
+Just being respectful and kind to others. If you ever feel confused, stressed, etc., reach out to Kemi or group members if you ever get confused or need help!
 
 
