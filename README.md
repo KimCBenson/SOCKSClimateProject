@@ -5,4 +5,4 @@ This project focuses on the epistemological differences between Indigenous and N
 
 ## Project Collaborators
 Current undergraduate research interns include Kimberly Benson, Juliana Rhee, Angela Kakaruk, Diego Barea. 
-### Research headed by Kemi Fuentes-George, Middlebury College. 
+Research headed by Kemi Fuentes-George, Middlebury College. 
