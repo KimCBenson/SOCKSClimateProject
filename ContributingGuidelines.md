@@ -4,7 +4,7 @@
 
 >First off, thank you for being awesome. Our project is going to be so great thanks to you all!
 
-### Contributions you are looking for.
+### Contributions 
 Everyone should put in equal work in researching articles and coding.
 > Responsibilities
 > * Find relevant stories and identify the claims being made
@@ -16,6 +16,6 @@ Everyone should put in equal work in researching articles and coding.
 
 # Ground Rules
 ### Expectations
-Just being respectful and kind to others. If you ever feel confused, stressed, etc., reach out to Kemi or group members if you ever get confused or need help!
+Just being respectful and kind to others. If you ever feel confused, stressed, etc., reach out to Kemi or your group members! We are all here to support each other. 
 
 
